@@ -23,10 +23,8 @@
 ```
 analise_de_dados_agrotech/
 ├── README.md
-├── sql/
-│   └── analise_agrotech.sql      (criação do banco, carga, Partes 1, 2 e 3)
-└── slides/
-    └── KPIs_AgroTech.pdf         (apresentação dos 10 KPIs)
+├── analise_agrotech.sql      (criação do banco, carga, Partes 1, 2 e 3)
+├── KPIs_AgroTech.pdf         (apresentação dos 10 KPIs)
 ```
 
 ---
