@@ -4,7 +4,7 @@
 
 **Objetivo.** Tratar a base de vendas agropecuárias da AgroTech Solutions, produzir um relatório gerencial em SQL e transformar os resultados em 10 KPIs que ajudem a diretoria a acompanhar a empresa e a decidir. A análise será repassada a outra equipe, por isso o projeto traz o script completo e esta documentação.
 
-**Integrantes:** Lucas Conforto *(adicionar os demais integrantes do grupo)*
+**Integrantes:** Lucas Conforto 
 
 **Disciplina:** Linguagem e projeto de banco de dados
 
